@@ -5,7 +5,6 @@
 - :briefcase: Linkedin: linkedin.com/in/franciscojeronimojr
 - ⚙️ Entusiasta da linguagem Python
 - :white_check_mark: Experiência em desenvolvimento com JavaScript e Python
-- :books: Aprendendo Golang
 
 [![My Skills](https://skillicons.dev/icons?i=flask,nodejs,fastapi,python,js,go,postman,markdown,tensorflow,github,git,css,html,postgres,mongo,vscode,&theme=dark)](https://skillicons.dev)
 
