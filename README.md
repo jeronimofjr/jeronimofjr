@@ -2,7 +2,7 @@
 
 - 🌱 Estudando desenvolvimento de software, qualidade de software, inteligência artificial e outras tecnologias...
 - 📧 Contate-me no email: franciscojeronimo@alu.ufc.br
-- :briefcase: Linkedin: linkedin.com/in/franciscojeronimojr
+- :briefcase: Linkedin: [franciscojeronimojr](linkedin.com/in/franciscojeronimojr)
 - ⚙️ Entusiasta da linguagem Python
 - :white_check_mark: Experiência em desenvolvimento com JavaScript e Python
 
