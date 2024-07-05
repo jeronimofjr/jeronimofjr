@@ -6,5 +6,5 @@
 - ⚙️ Entusiasta da linguagem Python
 - :white_check_mark: Experiência em desenvolvimento com JavaScript e Python
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,django,js,nodejs,typescript,vue,aws,postgres,mongo,docker,tensorflow,scikitlearn&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,django,js,nodejs,nestjs,typescript,graphql,aws,postgres,mongo,docker,tensorflow,scikitlearn&theme=dark)](https://skillicons.dev)
 
