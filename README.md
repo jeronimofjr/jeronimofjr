@@ -4,6 +4,6 @@
 - 📧 Contate-me no email: franciscojeronimo@alu.ufc.br
 - :briefcase: Linkedin: [Francisco Jeronimo](https://www.linkedin.com/in/franciscojeronimojr/)
 - ⚙️ Entusiasta da linguagem Python
-- :white_check_mark: Experiência em desenvolvimento com JavaScript e Python
+<!-- - :white_check_mark: Experiência em desenvolvimento com JavaScript e Python --!>
 
 
